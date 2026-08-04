@@ -1,4 +1,4 @@
-# Fast Multipole Method for the Secular Equation
+# Accelerated Evaluation of the Secular Equation by the Fast Multipole Method in Eigenvalue Problems
 
 This repository contains a Python implementation of a one-dimensional Fast Multipole Method (FMM) for the efficient evaluation of the secular equation arising from symmetricxranyodifications of diagonal matrices. The implementation is designed to accelerate the repeated evaluation of
 
